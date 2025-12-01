@@ -7,8 +7,6 @@ Real-time URL prediction (Streamlit)
 
 Batch prediction via CSV (FastAPI)
 
-Local storage (no cloud dependency)
-
 Automated MLOps using MLflow
 
 Model retraining and experiment tracking
